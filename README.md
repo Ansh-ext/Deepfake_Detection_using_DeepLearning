@@ -248,7 +248,7 @@ streamlit run app.py
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Deep Learning
 
